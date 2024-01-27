@@ -1,0 +1,24 @@
+
+.time{
+    
+    font-size: 50px;
+    height: fit-content;
+    width: fit-content; 
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3E3232;
+}
+
+.container {
+    padding: 15px;
+    height: auto;
+    width: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+}
